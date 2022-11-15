@@ -1,0 +1,1 @@
+# aps06-manipulacao-imagens
